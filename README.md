@@ -10,6 +10,7 @@ This dataset serves as a good base for learning models, including, but not limit
 Some jupyter notebooks exploring the dataset:  
 - [Overview: Game Maps](jupyter/game-maps.ipynb)  
 - [Overview: Players](jupyter/players.ipynb)  
+- [Overview: Game Maps and Players: Interactions](jupyter/interactions.ipynb)  
 
 ---
 ## Citation
