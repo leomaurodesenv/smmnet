@@ -1,8 +1,10 @@
 # SMMnet: A Social Networks of Games Dataset
 
-In this repository, we present the _first_ vast and open access Social Networks of Games dataset, called Super Mario Maker Network Dataset (or simply SMMnet), which provides information about 120 thousand game maps and 880 thousand players which performed 7 million of different types of interaction on the maps.  
+In this repository, we present the _first_ vast and open access Social Networks of Games dataset, called Super Mario Maker Network Dataset (or simply SMMnet), which provides information about 115 thousand game maps and 880 thousand players which performed 7 million of different types of interaction on the maps.  
 
 This dataset serves as a good base for learning models, including, but not limited to, **Player Modeling** (_e.g._, player experience), **Data Mining** (_e.g._, prediction, and find patterns), and **Social Network Analysis** (_e.g._, community detection, link prediction).  
+
+This dataset is public and available at Kaggle (https://www.kaggle.com/leomauro/smmnet).  
 
 ---
 ## Kernels
