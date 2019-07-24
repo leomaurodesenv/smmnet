@@ -19,7 +19,7 @@ Some jupyter notebooks exploring the dataset:
 
 ```tex
 @misc{smmnet:dataset,
-    author       = {Leonardo Mauro Pereira and Robson Leonardo Ferreira},
+    author       = {Moraes, Leonardo Mauro Pereira and Cordeiro, Robson Leonardo Ferreira},
     title        = {SMMnet: A Temporal Dataset from Super Mario Maker},
     howpublished = {Kaggle},
     url          = {https://www.kaggle.com/leomauro/smmnet},
