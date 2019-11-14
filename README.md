@@ -18,13 +18,17 @@ Some jupyter notebooks exploring the dataset:
 ## Citation
 
 ```tex
-@misc{smmnet:dataset,
-    author       = {Moraes, Leonardo Mauro Pereira and Cordeiro, Robson Leonardo Ferreira},
-    title        = {SMMnet: A Temporal Dataset from Super Mario Maker},
-    howpublished = {Kaggle},
-    url          = {https://www.kaggle.com/leomauro/smmnet},
-    year         = {2019}
-}
+@inproceedings{smmnet:dataset,
+    author       = {Leonardo Mauro Pereira Moraes and Robson Leonardo Ferreira Cordeiro},
+    title        = {SMMnet: A Social Network of Games Dataset},
+    booktitle    = {Brazilian Symposium on Databases (SBBD) 2019 - Dataset Showcase Workshop (DSW)},
+    days         = {7-10},
+    month        = {oct},
+    year         = {2019},
+    organization = {Brazilian Computer Society (SBC)},
+    address      = {Cear\'a, Brazil},
+    url          = {https://www.kaggle.com/leomauro/smmnet}
+} 
 ```
 
 ---
