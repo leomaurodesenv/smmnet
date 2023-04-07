@@ -1,13 +1,15 @@
-# SMMnet: A Social Networks of Games Dataset
+# 📄 SMMnet: A Social Networks of Games Dataset
 
 In this repository, we present the _first_ vast and open access Social Networks of Games dataset, called Super Mario Maker Network Dataset (or simply SMMnet), which provides information about 115 thousand game maps and 880 thousand players which performed 7 million of different types of interaction on the maps.  
 
 This dataset serves as a good base for learning models, including, but not limited to, **Player Modeling** (_e.g._, player experience), **Data Mining** (_e.g._, prediction, and find patterns), and **Social Network Analysis** (_e.g._, community detection, link prediction).  
 
-This dataset is public and available at Kaggle (https://www.kaggle.com/leomauro/smmnet).  
+**Paper**: Leonardo Mauro Pereira Moraes, and Robson Leonardo Ferreira Cordeiro. **[SMMnet: A Social Network of Games Dataset](https://repositorio.usp.br/item/002984641)**. _In Brazilian Symposium on Databases (SBBD) - Dataset Showcase Workshop (DSW), Ceara, Brazil, 2019_.
+
+> This dataset is public and available on Kaggle (https://www.kaggle.com/leomauro/smmnet)
 
 ---
-## Kernels
+## Analysis
 
 Some jupyter notebooks exploring the dataset:  
 - [Overview: Game Maps](jupyter/game-maps.ipynb)  
@@ -39,4 +41,4 @@ SMMNet is available for researchers and data scientists under the [Creative Comm
 ---
 ## Also look ~
 
-- Created by Leonardo Mauro ~ [leomaurodesenv](https://github.com/leomaurodesenv/)
+- Created by [leomaurodesenv](https://github.com/leomaurodesenv/)
